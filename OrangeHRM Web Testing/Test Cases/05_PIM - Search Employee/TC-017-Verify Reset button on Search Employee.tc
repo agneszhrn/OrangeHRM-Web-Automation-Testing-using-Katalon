@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-017-Verify Reset button on Search Employee</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8ede5d91-59fe-4842-800a-46339a514f2e</testCaseGuid>
+</TestCaseEntity>

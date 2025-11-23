@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-012-Cancel to Add Employee 2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>920204d7-e480-42f3-a970-e08ec6eb6f2c</testCaseGuid>
+</TestCaseEntity>

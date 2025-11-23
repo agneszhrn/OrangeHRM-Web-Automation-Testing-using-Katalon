@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-007-Go to menu PIM</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6f2c22fb-f357-4d91-bf00-de6814c8d6eb</testCaseGuid>
+</TestCaseEntity>

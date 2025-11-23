@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-016-Empty Search Employee</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8d29d96a-04ce-49b7-bcda-a9fad35fdb6e</testCaseGuid>
+</TestCaseEntity>

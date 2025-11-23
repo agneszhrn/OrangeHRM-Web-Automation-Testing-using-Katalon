@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-014-Search employee by valid Employee Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a1cf2a80-22fe-4585-8b6c-2e2dba208753</testCaseGuid>
+</TestCaseEntity>

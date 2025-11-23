@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-009-Add employees empty field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc924429-f67d-467d-9e8b-b05109fc3ab8</testCaseGuid>
+</TestCaseEntity>
